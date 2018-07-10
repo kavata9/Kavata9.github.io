@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Graduate');
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.header {
+  /* padding:200px 300px; */
+  color: #fff;
+  background: url("../img/cofee.jpeg");
+  height: 100vh;
+  background-color: #000;
+  background-size: cover;
+  position: relative;
+}
+
+.heading {
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+  /* margin: 0 auto; */
+
+}
+
+.name {
+  color: #cf5022;
+}
+
+.btn-primary {
+  color: #f6f6f6;
+  background: #cf5022;
+  border: 0;
+}
+
+.up {
+  text-transform: uppercase;
+  font-family: 'Graduate';
+}
+
+.pointer {
+  color: #f6f6f6;
+  background: #cf5022;
+  border: 0;
+  padding: 12px 24px;
+  margin: 0 8px;
+  font-size: 18px;
+  transition: all 0.5s;
+}
+
+#intro .intro-body H1 {
+  font-size: 60px;
+  font-weight: 700;
+  font-family: 'Graduate';
+  color: white;
+  text-transform: uppercase;
+}
+
+.intro-text {
+  font-size: 30px;
+  font-weight: 300;
+  font-family: 'Graduate';
+  color: white;
+  text-transform: uppercase;
+}
+
+/* .about{
+  padding: 5%;
+} */
+
+.about-cont {
+  width: 80%;
+}
+
+.logo {
+  font-size: 1000%;
+  color: #cf5022;
+}
+
+.logo-text {
+  color: white;
+}
+
+.skills {
+  padding: 50px;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../img/intro-bg.jpg");
+  background-blend-mode: lighten;
+}
+
+.contact, .portfolio, .about {
+  padding: 50px;
+}
