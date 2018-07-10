@@ -1,6 +1,6 @@
 # Portfolio-Page
-#### A portfolio page showing a brief description of my skills and projects}, 19th June 2018
-#### By **Adebayo Olamijin**
+#### A portfolio page showing a brief description of my skills and projects}, 1oth July 2018
+#### By **Agnes Musyoka**
 ## Description
 This is a portfolio page built fully with HTML,CSS,Bootstrap framework and JavaScript.the purpose of this page is to showcase projects built by me during my learning process as full stack developer.
 ## Setup/Installation Requirements
@@ -14,4 +14,4 @@ HTML,CSS,BOOTSTRAP and JavaScript
 contact me at consultolamijin@gmail.com .
 ### License
 *MIT*
-Copyright (c) {2018} **Adebayo Olamijin**
+Copyright (c) {2018} **Agnes Musyoka**
