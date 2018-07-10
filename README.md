@@ -11,7 +11,7 @@ There are no known bugs as at the time of deploying this page
 ## Technologies Used
 HTML,CSS,BOOTSTRAP and JavaScript
 ## Support and contact details
-contact me at consultolamijin@gmail.com .
+contact me at kavatamusyoka24@gmail.com .
 ### License
 *MIT*
 Copyright (c) {2018} **Agnes Musyoka**
