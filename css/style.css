@@ -9,7 +9,7 @@ html, body {
 .header {
   /* padding:200px 300px; */
   color: #fff;
-  background: url("../img/cofee.jpeg");
+  background: url("../img/background.jpg");
   height: 100vh;
   background-color: #000;
   background-size: cover;
@@ -26,7 +26,7 @@ transform: translate(-50%,-50%);
 }
 
 .name {
-  color: #cf5022;
+  color: #581845;
 }
 
 .btn-primary {
