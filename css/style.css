@@ -85,7 +85,7 @@ transform: translate(-50%,-50%);
 
 .skills {
   padding: 50px;
-  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../img/skills.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../img/compute.jpg");
   background-blend-mode: lighten;
 }
 
