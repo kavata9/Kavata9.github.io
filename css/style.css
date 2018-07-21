@@ -8,10 +8,8 @@ html, body {
 
 .header {
   /* padding:200px 300px; */
-  color: #f6f6f6;
-  background: url("../img/coolback.jpeg");
+  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../img/coolback.jpeg");
   height: 100vh;
-  background-color: #000;
   background-size: cover;
   position: relative;
 }
