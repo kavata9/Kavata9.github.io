@@ -87,6 +87,6 @@ transform: translate(-50%,-50%);
   background-blend-mode: lighten;
 }
 
-.contact, .portfolio, .about {
-  padding: 50px;
+.contact, .projects, .about {
+  padding: 55px;
 }
