@@ -190,25 +190,49 @@
                   </div>
               </div>
           </div>
-          
+          <div class="row">
 
-              <div class="row">
-                <div class="form-group">
-                  <input type="email" name="_replyto" class="form-control"  placeholder="email" required="required">
-                  <p class="help-block text-danger"></p>
-                </div>
-              </div>
+            <div class="col-md-10 col-md-offset-1">
+                <form id="contact-form" method="post" action="contact.php" class="wow fadeInDown" data-wow-delay="1.2s">
+
+                    <div class="messages"></div> <!--you can change the message in contact.php file -->
+
+                    <div class="controls">
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter your full name *" required="required" data-error="Fullname is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter your email *" required="required" data-error="Valid email is required.">
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <textarea id="form_message" name="message" class="form-control" placeholder="Your Message *" rows="4" required="required" data-error="Leave a message for me"></textarea>
+                                    <div class="help-block with-errors"></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <button class="btn btn-send" value="">Send message</button>
+                            </div>
+                        </div>
+                    </div>
+
+                </form>
             </div>
-            <div class="form-group">
-              <textarea name="message"  class="form-control" rows="4" placeholder="Message" required></textarea>
-              <p class="help-block text-danger"></p>
-            </div>
-            <div id="success"></div>
-            <button type="submit" value="Send" class="btn btn-primary">Send Message</button>
-          </form>
+
         </div>
-      </div>
     </div>
+</div>
+
   </section>
 
 
