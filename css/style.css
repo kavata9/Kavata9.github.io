@@ -88,5 +88,6 @@ transform: translate(-50%,-50%);
 }
 
 .contact, .projects, .about {
+  align-content: center;
   padding: 50px;
 }
